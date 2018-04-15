@@ -26,3 +26,6 @@ This Package inclide npm backend package (express js ) and front end package(ang
 13. Open in browser http://localhost:4200/ (now angular up and running)
 
 Now your project up and running.
+<BR>
+ 
+ ![Alt text](/angularjs-nodejs-mysql.gif?raw=true "Create user")
