@@ -5,9 +5,9 @@ This Package inclide npm backend package (express js ) and front end package(ang
 <b>Installation steps</b>
 1. **git clone https://github.com/Rajukumar468/angularjs-nodejs-mysql.git angularjs-nodejs-mysql**
 2. **cd angularjs-nodejs-mysql**
-3. **git install** (install expressjs dependency)
+3. **npm install** (install expressjs dependency)
 4. **cd client** (go to front end directory)
-5. **git install** (install angularjs(frontend) dependency)
+5. **npm install** (install angularjs(frontend) dependency)
 7. **cd ..** (come back to main directory "angularjs-nodejs-mysql")
 8. Change database settings- open **index.js** and do necessary changes<br/>
       **var con=mysql.createPool({<br/>
